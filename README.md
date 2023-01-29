@@ -133,5 +133,6 @@
   </a>
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&text=test&height=100&section=footer"/>
+  شكرا على وقتك⏰
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&&height=100&section=footer"/>
 </p>
