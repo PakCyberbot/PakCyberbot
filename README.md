@@ -132,7 +132,8 @@
   <img src= "assets/vid.gif" width=100% >
   </a>
 </div>
+<h1 align="center"> ⏰شكرا على وقتك</h1>
 <p align="center">
-  شكرا على وقتك⏰
+ 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&&height=100&section=footer"/>
 </p>
