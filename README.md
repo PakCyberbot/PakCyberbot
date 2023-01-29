@@ -7,7 +7,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/intent/user?screen_name=PakCyberbot)](https://twitter.com/intent/user?screen_name=PakCyberbot) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PakCyberbot/)](https://www.linkedin.com/in/PakCyberbot/) [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://PakCyberbot.medium.com/)](https://PakCyberbot.medium.com/)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/@PakCyberbot)](https://youtube.com/@PakCyberbot)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://twitter.com/intent/user?screen_name=PakCyberbot)](https://twitter.com/intent/user?screen_name=PakCyberbot)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/pakcyberbot/)](https://www.instagram.com/pakcyberbot/)
 
 ![Visitor Count](https://profile-counter.glitch.me/{PakCyberbot}/count.svg)
 
