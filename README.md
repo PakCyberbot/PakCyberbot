@@ -133,7 +133,4 @@
   </a>
 </div>
 <h1 align="center"> ⏰شكرا على وقتك</h1>
-<p align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&&height=100&section=footer"/>
-</p>
+
