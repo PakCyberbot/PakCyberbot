@@ -133,5 +133,5 @@
   </a>
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&text=شكرا على وقتك&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&text=test&height=100&section=footer"/>
 </p>
