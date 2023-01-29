@@ -128,14 +128,10 @@
 <img align="left" alt="PakCyberbot's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=PakCyberbot&theme=darkhub" />
 </details>
 <div align="center">
-    
   <a href='https://www.youtube.com/channel/UClNWQ8piuVJ9St7HzfX37ig?sub_confirmation=1'>
   <img src= "assets/vid.gif" width=100% >
   </a>
 </div>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&text=⏰شكرا على وقتك&height=100&section=footer&animation=scaleIn"/>
-
 </p>
