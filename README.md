@@ -94,6 +94,11 @@
 ](https://tryhackme.com/module/windows-fundamentals)
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Buffer Overflow Automation in Python | PakCyberbot](https://www.youtube.com/watch?v=3nSAHeJ2YpQ)
+- [Ethical Hacking Channel Intro - PakCyberbot](https://www.youtube.com/watch?v=hcgf_gbpmFs)
+- [How to Get Started with Ethical Hacking in 2023 | Become a Hacker - PakCyberbot](https://www.youtube.com/watch?v=WU16fYTP_vY)
+- [My Experience of eJPTv2 exam and PTSv2 content](https://www.youtube.com/watch?v=2s8BYjXUjGA)
+- [The place to explore for Mr. Robot Series Fans! | Mr. Robot&#39;s Style Hacking](https://www.youtube.com/watch?v=ai9KJWydRVA)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
