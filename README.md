@@ -102,7 +102,7 @@
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wireless Waves 101: Understanding the Different Types Used in Technology](https://systemweakness.com/wireless-waves-101-understanding-the-different-types-used-in-technology-ecae76ab097c?source=rss-e78c7ba25f94------2)
+- [Wireless Waves 101: Understanding the Different Types Used in Technology](https://pakcyberbot.medium.com/wireless-waves-101-understanding-the-different-types-used-in-technology-ecae76ab097c?source=rss-e78c7ba25f94------2)
 - [Like Natural Resources, Fields Must Be Harvested for Their Value!](https://pakcyberbot.medium.com/like-natural-resources-fields-must-be-harvested-for-their-value-c35348ac73ff?source=rss-e78c7ba25f94------2)
 - [Automation of Buffer-Overflow](https://infosecwriteups.com/automation-of-buffer-overflow-b7252d77e72e?source=rss-e78c7ba25f94------2)
 - [How to Get Started with Ethical Hacking](https://pakcyberbot.medium.com/how-to-get-started-with-ethical-hacking-f4728d775aee?source=rss-e78c7ba25f94------2)
