@@ -94,11 +94,11 @@
 ](https://tryhackme.com/module/windows-fundamentals)
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cybersecurity Quest: My 365 Days on TryHackMe | My Hacking Journey](https://www.youtube.com/watch?v=LMRTXYwrd48)
 - [why everyone wants an easy life ?](https://www.youtube.com/watch?v=7XYokT2eC3o)
 - [Buffer Overflow Automation in Python | PakCyberbot](https://www.youtube.com/watch?v=3nSAHeJ2YpQ)
 - [Ethical Hacking Channel Intro - PakCyberbot](https://www.youtube.com/watch?v=hcgf_gbpmFs)
 - [How to Get Started with Ethical Hacking in 2023 | Become a Hacker - PakCyberbot](https://www.youtube.com/watch?v=WU16fYTP_vY)
-- [My Experience of eJPTv2 exam and PTSv2 content](https://www.youtube.com/watch?v=2s8BYjXUjGA)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
