@@ -102,7 +102,7 @@
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity Quest: My 365 Days on TryHackMe](https://pakcyberbot.medium.com/cybersecurity-quest-my-365-days-on-tryhackme-c99f7f0cca0f?source=rss-e78c7ba25f94------2)
+- [Cybersecurity Quest: My 365 Days on TryHackMe](https://systemweakness.com/cybersecurity-quest-my-365-days-on-tryhackme-c99f7f0cca0f?source=rss-e78c7ba25f94------2)
 - [Wireless Waves 101: Understanding the Different Types Used in Technology](https://pakcyberbot.medium.com/wireless-waves-101-understanding-the-different-types-used-in-technology-ecae76ab097c?source=rss-e78c7ba25f94------2)
 - [Like Natural Resources, Fields Must Be Harvested for Their Value!](https://pakcyberbot.medium.com/like-natural-resources-fields-must-be-harvested-for-their-value-c35348ac73ff?source=rss-e78c7ba25f94------2)
 - [Automation of Buffer-Overflow](https://infosecwriteups.com/automation-of-buffer-overflow-b7252d77e72e?source=rss-e78c7ba25f94------2)
