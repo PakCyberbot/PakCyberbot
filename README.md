@@ -52,7 +52,7 @@
 <img  src="assets/googleIT_badge.png" alt="Alt text" style="width:100px;">
 </a>
 </a>
-<a href='https://www.credly.com/badges/381cc55c-1e00-47b3-a678-5454932708bf/public_url'>
+<a href='https://www.credly.com/badges/a6ba1de3-1579-4ac6-b452-697b8cab04e5/public_url'>
 <img  src="assets/ciscojuniorcyberanalyst_badge.png" alt="Alt text" style="width:100px;">
 </a>
 
