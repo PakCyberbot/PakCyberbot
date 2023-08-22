@@ -51,6 +51,10 @@
 <a href='https://www.credly.com/badges/22d82bbf-0a03-4761-a6ea-88088ca98388/public_url'>
 <img  src="assets/googleIT_badge.png" alt="Alt text" style="width:100px;">
 </a>
+</a>
+<a href='https://www.credly.com/badges/381cc55c-1e00-47b3-a678-5454932708bf/public_url'>
+<img  src="assets/ciscojuniorcyberanalyst_badge.png" alt="Alt text" style="width:100px;">
+</a>
 
 <a href='https://www.linkedin.com/in/pakcyberbot/details/certifications/'>More Certifications...</a>
 
