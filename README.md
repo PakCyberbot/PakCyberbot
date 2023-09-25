@@ -42,7 +42,7 @@
 
 ### Some Certifications
 
-<a href='https://my.ine.com/certificate/50397080-72eb-40fd-b792-758239dc988a'>
+<a href='https://certs.ine.com/bffa2109-475e-4222-861c-6bb851e71983'>
 <img  src="assets/ejptv2_badge.png" alt="Alt text" style="width:100px;">
 </a>
 <a href='https://www.credly.com/badges/381cc55c-1e00-47b3-a678-5454932708bf/public_url'>
