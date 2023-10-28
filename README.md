@@ -61,7 +61,7 @@
 <a href='https://tryhackme.com/p/PakCyberbot'>
 <img src="https://tryhackme-badges.s3.amazonaws.com/PakCyberbot.png" alt="TryHackMe"></a>
 
-![](https://www.hackthebox.com/badge/image/1098862)
+[![](https://www.hackthebox.com/badge/image/1098862)](https://app.hackthebox.com/profile/1098862)
 
 ### Some Skills (*Click to check the Resources*)
 #### Graphics Designing
