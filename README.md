@@ -110,11 +110,11 @@
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Private Investigator Walkthrough](https://infosecwriteups.com/private-investigator-walkthrough-e99b859a463c?source=rss-e78c7ba25f94------2)
 - [My Experience with the Free Google Cloud Security Engineer Professional Certification](https://pakcyberbot.medium.com/my-experience-with-the-free-google-cloud-security-engineer-professional-certification-5b3d795dcd01?source=rss-e78c7ba25f94------2)
 - [Level Up! My Evolving Cybersecurity Skillset in Year 2](https://pakcyberbot.medium.com/level-up-my-evolving-cybersecurity-skillset-in-year-2-d398350055c2?source=rss-e78c7ba25f94------2)
 - [RunZero Coin Challenge Solution](https://pakcyberbot.medium.com/runzero-coin-challenge-solution-22ad56c835e6?source=rss-e78c7ba25f94------2)
 - [Cybersecurity Quest: My 365 Days on TryHackMe](https://systemweakness.com/cybersecurity-quest-my-365-days-on-tryhackme-c99f7f0cca0f?source=rss-e78c7ba25f94------2)
-- [Wireless Waves 101: Understanding the Different Types Used in Technology](https://pakcyberbot.medium.com/wireless-waves-101-understanding-the-different-types-used-in-technology-ecae76ab097c?source=rss-e78c7ba25f94------2)
 <!-- BLOG-POST-LIST:END -->
 <details>
   <summary>📊GitHub Stats</summary>
