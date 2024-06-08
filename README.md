@@ -116,8 +116,7 @@
 - [RunZero Coin Challenge Solution](https://pakcyberbot.medium.com/runzero-coin-challenge-solution-22ad56c835e6?source=rss-e78c7ba25f94------2)
 - [Cybersecurity Quest: My 365 Days on TryHackMe](https://systemweakness.com/cybersecurity-quest-my-365-days-on-tryhackme-c99f7f0cca0f?source=rss-e78c7ba25f94------2)
 <!-- BLOG-POST-LIST:END -->
-<details>
-  <summary>📊GitHub Stats</summary>
+  <h4>📊GitHub Stats</h4>
   <table>
     <tr>
       <td align="center" style="padding=0;width=50%;">
@@ -128,11 +127,10 @@
       </td>
     </tr>
   </table>
-</details>
+
   
 
-<details>
-  <summary>🏆GitHub Trophies</summary>
+  <h4>🏆GitHub Trophies</h4>
 <img align="left" alt="PakCyberbot's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=PakCyberbot&theme=darkhub" />
 </details>
 <div align="center">
