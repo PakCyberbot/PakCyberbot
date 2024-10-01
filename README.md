@@ -15,7 +15,7 @@
 <div align="center">
     
   <a href='https://youtu.be/V6ui161NyTg'>
-  <img src= "https://media.giphy.com/media/Uho05vACGIjMk/giphy.gif" width=100% >
+  <img src= "assets/Hope.gif" width=100% >
   </a>
 </div>
 
