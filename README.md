@@ -110,11 +110,11 @@
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Cybersecurity Journey 2024: Achievements, Challenges, and Milestones](https://pakcyberbot.medium.com/my-cybersecurity-journey-2024-achievements-challenges-and-milestones-c718793f7193?source=rss-e78c7ba25f94------2)
 - [Private Investigator Walkthrough](https://pakcyberbot.medium.com/private-investigator-walkthrough-e99b859a463c?source=rss-e78c7ba25f94------2)
 - [My Experience with the Free Google Cloud Security Engineer Professional Certification](https://pakcyberbot.medium.com/my-experience-with-the-free-google-cloud-security-engineer-professional-certification-5b3d795dcd01?source=rss-e78c7ba25f94------2)
 - [Level Up! My Evolving Cybersecurity Skillset in Year 2](https://pakcyberbot.medium.com/level-up-my-evolving-cybersecurity-skillset-in-year-2-d398350055c2?source=rss-e78c7ba25f94------2)
 - [RunZero Coin Challenge Solution](https://pakcyberbot.medium.com/runzero-coin-challenge-solution-22ad56c835e6?source=rss-e78c7ba25f94------2)
-- [Cybersecurity Quest: My 365 Days on TryHackMe](https://systemweakness.com/cybersecurity-quest-my-365-days-on-tryhackme-c99f7f0cca0f?source=rss-e78c7ba25f94------2)
 <!-- BLOG-POST-LIST:END -->
   <h4>📊GitHub Stats</h4>
   <table>
