@@ -106,7 +106,7 @@
 - [OSINT Investigation Challenge - Real World Scenario](https://www.youtube.com/watch?v=IJLBVZjMFlw)
 - [Building a Cyber Playground: My CTF Pentesting Lab Environment Overview](https://www.youtube.com/watch?v=TXNuUfIWZI4)
 - [Cybersecurity Quest: My 365 Days on TryHackMe | My Hacking Journey](https://www.youtube.com/watch?v=LMRTXYwrd48)
-- [why everyone wants an easy life ?](https://www.youtube.com/watch?v=7XYokT2eC3o)
+- [why everyone wants an easy life ?](https://www.youtube.com/shorts/7XYokT2eC3o)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
