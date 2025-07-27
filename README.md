@@ -102,11 +102,11 @@
 ](https://tryhackme.com/module/windows-fundamentals)
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How I got free OSCP course &amp; exam bundle from @OffSecTraining | Ethical Hacking Certification](https://www.youtube.com/watch?v=8BnOxdsT7qY)
 - [OSCP Environment Demo](https://www.youtube.com/watch?v=-lnN6BVufF4)
 - [Best HTTP Server for Hackers &amp; CTF Players](https://www.youtube.com/shorts/4TiaiyiD95E)
 - [Massive LinkedIn Phishing Campaign Targeting Job Seekers! - Cyber Awareness](https://www.youtube.com/watch?v=sg7VRzNfqn8)
 - [OSINT Investigation Challenge - Real World Scenario](https://www.youtube.com/watch?v=IJLBVZjMFlw)
-- [Building a Cyber Playground: My CTF Pentesting Lab Environment Overview](https://www.youtube.com/watch?v=TXNuUfIWZI4)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
