@@ -42,6 +42,13 @@
 
 ### Some Certifications
 
+
+<a href='https://credentials.offsec.com/7d159261-fceb-4503-8531-eeef31b68969'>
+<img  src="assets/oscp_plus_badge.png" alt="Alt text" style="width:100px;">
+</a>
+<a href='https://www.credly.com/badges/80a15dbc-ab70-4dc3-abd6-f812bb0f25ff/public_url'>
+<img  src="assets/GCloud_securityEngineer.png" alt="Alt text" style="width:100px;">
+</a>
 <a href='https://certs.ine.com/bffa2109-475e-4222-861c-6bb851e71983'>
 <img  src="assets/ejptv2_badge.png" alt="Alt text" style="width:100px;">
 </a>
@@ -55,9 +62,7 @@
 <a href='https://www.credly.com/badges/a6ba1de3-1579-4ac6-b452-697b8cab04e5/public_url'>
 <img  src="assets/ciscojuniorcyberanalyst_badge.png" alt="Alt text" style="width:100px;">
 </a>
-<a href='https://www.credly.com/badges/80a15dbc-ab70-4dc3-abd6-f812bb0f25ff/public_url'>
-<img  src="assets/GCloud_securityEngineer.png" alt="Alt text" style="width:100px;">
-</a>
+
 
 <a href='https://www.linkedin.com/in/pakcyberbot/details/certifications/'>More Certifications...</a>
 
