@@ -102,7 +102,7 @@
 ](https://tryhackme.com/module/windows-fundamentals)
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How I got free OSCP directly rom @OffSecTraining | Demanded Hacking Certification](https://www.youtube.com/watch?v=8BnOxdsT7qY)
+- [How I got free OSCP directly from @OffSecTraining | Demanded Hacking Certification](https://www.youtube.com/watch?v=8BnOxdsT7qY)
 - [OSCP Environment Demo](https://www.youtube.com/watch?v=-lnN6BVufF4)
 - [Best HTTP Server for Hackers &amp; CTF Players](https://www.youtube.com/shorts/4TiaiyiD95E)
 - [Massive LinkedIn Phishing Campaign Targeting Job Seekers! - Cyber Awareness](https://www.youtube.com/watch?v=sg7VRzNfqn8)
