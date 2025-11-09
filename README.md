@@ -107,11 +107,11 @@
 ](https://tryhackme.com/module/windows-fundamentals)
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Kerberos Authentication &amp; Its Misconfigurations – &lpar;Active Directory Pentesting - OSCP&rpar;](https://www.youtube.com/watch?v=oSMhTDFbfsA)
 - [Covertly Transfer Files using Brave Browser Sync &lpar;Red Teaming Technique&rpar; - Ethical Hacking](https://www.youtube.com/watch?v=naAJ2q_00sk)
 - [I Gave AI Full Control of My Kali Linux &lpar;AI-Powered Kali Linux Setup Demo&rpar;](https://www.youtube.com/watch?v=vaPuDnfwZE0)
 - [How I got free OSCP directly from @OffSecTraining | Demanded Hacking Certification](https://www.youtube.com/watch?v=8BnOxdsT7qY)
 - [OSCP Environment Demo](https://www.youtube.com/watch?v=-lnN6BVufF4)
-- [Best HTTP Server for Hackers &amp; CTF Players](https://www.youtube.com/shorts/4TiaiyiD95E)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
