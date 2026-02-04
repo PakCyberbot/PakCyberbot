@@ -119,7 +119,7 @@
 - [New Data Exfiltration Technique Using Brave Sync](https://infosecwriteups.com/new-data-exfiltration-technique-using-brave-sync-3fe5313c5e59?source=rss-e78c7ba25f94------2)
 - [How I Got a Free OSCP Exam Directly from OffSec](https://infosecwriteups.com/how-i-got-a-free-oscp-exam-directly-from-offsec-c54e562121c5?source=rss-e78c7ba25f94------2)
 - [My Cybersecurity Journey 2024: Achievements, Challenges, and Milestones](https://pakcyberbot.medium.com/my-cybersecurity-journey-2024-achievements-challenges-and-milestones-c718793f7193?source=rss-e78c7ba25f94------2)
-- [Private Investigator Walkthrough](https://pakcyberbot.medium.com/private-investigator-walkthrough-e99b859a463c?source=rss-e78c7ba25f94------2)
+- [Private Investigator Walkthrough](https://osintteam.blog/private-investigator-walkthrough-e99b859a463c?source=rss-e78c7ba25f94------2)
 <!-- BLOG-POST-LIST:END -->
   <h4>📊GitHub Stats</h4>
   <table>
